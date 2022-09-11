@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+**/node_modules
+/.pnp
+.pnp.js
+
+# production
+/build
+
+pnpm-lock.yaml
